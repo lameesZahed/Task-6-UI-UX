@@ -1,3 +1,11 @@
+Prototype:
+
+Desktop: https://www.figma.com/design/vYUZP0EbUMbAAWLI7gHsVT/Task-6?node-id=1-2&t=okG4DVnVHcSAqo7J-1
+
+Tablet: https://www.figma.com/design/vYUZP0EbUMbAAWLI7gHsVT/Task-6?node-id=60-355&t=okG4DVnVHcSAqo7J-1
+
+
+
 <img width="1077" height="741" alt="image" src="https://github.com/user-attachments/assets/4abcf6fa-3bae-4ae1-9ce7-660f1be372c8" />
 <img width="1055" height="757" alt="image" src="https://github.com/user-attachments/assets/72b194f5-6d71-4259-a2f2-94de99767b8d" />
 <img width="1067" height="767" alt="image" src="https://github.com/user-attachments/assets/4ee641ec-34fe-43bc-88f9-fed2dcce656d" />
